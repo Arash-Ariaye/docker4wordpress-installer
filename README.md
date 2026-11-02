@@ -117,4 +117,3 @@ docker compose up -d
 
 ---
 
-**Developed by [Arash Ariaye](https://github.com/Arash-Ariaye)**
